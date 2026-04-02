@@ -32,7 +32,7 @@ El modelos 3D del robot y el gabinete están disponibles en este repositorio y e
 
 La documentación completa está publicada en:
 
-**[guro-tutorial.readthedocs.io](https://guro-tutorial.readthedocs.io/)**
+**[guro.readthedocs.io](https://guro.readthedocs.io/)**
 
 Incluye el inventario de piezas, 16 pasos ilustrados y las instrucciones de programación. También disponible [en PDF](docs/user-guide_2026-04-01.pdf)
 
@@ -57,16 +57,16 @@ El framework [**microbitML**](https://github.com/fundacion-sadosky/microbitML) (
 ## Estructura del repositorio
 
 ```
-docs/               Documentación del sitio (MkDocs + Obsidian)
+docs/               Documentación del sitio (properDocs + Obsidian)
 kit GURO/           Inventario del kit 
 gabinete/           Gabinete para Micro:bit y placa expansora
 placa adaptadora/   Diseño de la placa PCB adaptadora (KiCad)
-scripts/            Scripts de generación de documentación
-mkdocs.yml          Configuración del sitio de documentación
-docs-requirements.txt  Dependencias Python para compilar la documentación
+scripts/            Scripts de generación de documentación (properDocs/MkDocs)
+mkdocs.yml          Configuración del sitio de documentación 
+docs-requirements.txt  Dependencias Python para compilar la documentación 
 ```
 
-La carpeta `docs/` está configurada como un vault de [Obsidian](https://obsidian.md), lo que permite editarla sin usar la terminal. Ver [Contribuciones para redactores](https://guro-tutorial.readthedocs.io/contributing/for-writers/).
+La carpeta `docs/` está configurada como un vault de [Obsidian](https://obsidian.md), lo que permite editarla sin usar la terminal. Ver [Contribuciones para redactores](https://guro.readthedocs.io/contributing/for-writers/).
 
 ---
 
@@ -86,8 +86,8 @@ Estas son algunas tareas concretas en las que podés contribuir al proyecto:
 
 Las contribuciones son bienvenidas, independientemente del perfil técnico.
 
-- **Redactores y docentes**: editá la documentación con [Obsidian](https://obsidian.md) abriendo la carpeta `docs/` como vault. Ver [guía para redactores](https://guro-tutorial.readthedocs.io/contributing/for-writers/).
-- **Desarrolladores**: mirá la [guía para desarrolladores](https://guro-tutorial.readthedocs.io/contributing/for-developers/).
+- **Redactores y docentes**: editá la documentación con [Obsidian](https://obsidian.md) abriendo la carpeta `docs/` como vault. Ver [guía para redactores](https://guro.readthedocs.io/contributing/for-writers/).
+- **Desarrolladores**: mirá la [guía para desarrolladores](https://guro.readthedocs.io/contributing/for-developers/).
 - **Errores o sugerencias**: abrí un [issue](../../issues) en este repositorio.
 
 ---

@@ -45,13 +45,13 @@ Si querés modificar componentes de terceros (firmware de la Micro:bit, la exten
 
 La documentación vive en la carpeta `docs/`, configurada como un vault de [Obsidian](https://obsidian.md). Podés editarla directamente desde la aplicación Obsidian, sin necesidad de usar la terminal ni conocer git.
 
-Consultá la [guía para redactores](https://guro-tutorial.readthedocs.io/contributing/for-writers/) para más detalles sobre el flujo de edición y las convenciones del sitio.
+Consultá la [guía para redactores](https://guro.readthedocs.io/contributing/for-writers/) para más detalles sobre el flujo de edición y las convenciones del sitio.
 
 Si encontrás un error o querés sugerir una mejora pero no querés editar directamente, abrí un [issue](../../issues) describiendo el problema.
 
 ### Desarrolladores
 
-Consultá la [guía para desarrolladores](https://guro-tutorial.readthedocs.io/contributing/for-developers/) para detalles sobre el entorno, las herramientas utilizadas y las convenciones del proyecto.
+Consultá la [guía para desarrolladores](https://guro.readthedocs.io/contributing/for-developers/) para detalles sobre el entorno, las herramientas utilizadas y las convenciones del proyecto.
 
 El flujo de trabajo estándar es:
 

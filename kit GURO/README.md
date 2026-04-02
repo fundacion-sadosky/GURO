@@ -42,6 +42,6 @@ El kit GURO debe combinarse con los siguientes componentes, que se consiguen por
 
 La guía completa de armado paso-a-paso está en la carpeta `docs/` y accesible en:
 
-**[guro.readthedocs.io](https://guro-tutorial.readthedocs.io/)**
+**[guro.readthedocs.io](https://guro.readthedocs.io/)**
 
 También disponible en PDF en `docs/user-guide_2026-04-01.pdf`.
