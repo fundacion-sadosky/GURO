@@ -1,0 +1,17 @@
+/* Style broken wikilinks so contributors notice them */
+.broken-link {
+  color: #e74c3c;
+  text-decoration: wavy underline;
+  cursor: help;
+}
+
+/* Ensure Obsidian-style ==highlights== render visibly */
+mark {
+  background-color: #fff3a3;
+  padding: 0.1em 0.2em;
+  border-radius: 2px;
+}
+
+[data-md-color-scheme="slate"] mark {
+  background-color: #5c5317;
+}
