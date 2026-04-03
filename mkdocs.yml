@@ -4,8 +4,8 @@
 site_name: "GURO Tutorial"
 site_url: "https://guro.readthedocs.io/"
 site_description: "Manual de armado paso a paso para el modelo de robot GURO con el kit Robobloq Qoopers"
-repo_url: "https://github.com/leandro-fs/GURO-tutorial"
-repo_name: "leandro-fs/GURO-tutorial"
+repo_url: "https://github.com/fundacion-sadosky/GURO"
+repo_name: "fundacion-sadosky/GURO"
 edit_uri: "edit/main/docs/"
 
 # ==============================================================================
@@ -154,7 +154,7 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: "https://github.com/leandro-fs/GURO-tutorial"
+      link: "https://github.com/fundacion-sadosky/GURO"
 
 # ==============================================================================
 # Strict mode — catch broken links during build
