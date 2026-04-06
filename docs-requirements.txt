@@ -1,5 +1,6 @@
 properdocs
 properdocs[i18n]
+mkdocs-static-i18n
 mkdocs-material[i18n]
 mkdocstrings[python]
 mkdocs-gen-files
