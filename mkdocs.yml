@@ -64,7 +64,32 @@ nav:
 # Plugins
 # ==============================================================================
 plugins:
-  - search
+  - search:
+      lang:
+        - es
+        - en
+
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: es
+          default: true
+          name: Castellano
+          build: true
+        - locale: en
+          name: English
+          build: true
+          nav_translations:
+            Inicio: Home
+            Primeros pasos: Getting started
+            Guía de usuario: User guide
+            Referencia de API: API Reference
+            Contribuciones: Contributing
+            Para redactores: For writers
+            Para desarrolladores: For developers
 
   # --- Obsidian compatibility ---
   - obsidian-bridge:

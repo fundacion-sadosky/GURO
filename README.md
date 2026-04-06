@@ -1,3 +1,5 @@
+🌐 [English](README.en.md)
+
 # GURO
 
 **Kit de conversión para robots Robobloq Qoopers con [BBC Micro:bit](https://www.microbit.org)**
@@ -139,7 +141,5 @@ Podés copiar, adaptar y redistribuir el contenido —incluso con fines comercia
 ---
 
 <p align="center">
-  <a href="https://www.fundacionsadosky.org.ar">Fundación Sadosky</a> &nbsp;·&nbsp;
-<a href="https://program.ar">Iniciativa program.ar</a> &nbsp;·&nbsp;
-  <a href="https://www.microbit.org">micro:bit</a>
+  <a href="https://www.fundacionsadosky.org.ar">Fundación Sadosky</a>
 </p>

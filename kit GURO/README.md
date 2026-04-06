@@ -1,3 +1,5 @@
+🌐 [English](README.en.md)
+
 # Kit GURO
 
 El kit GURO es el conjunto de piezas y documentos, que permiten convertir un robot Robobloq Qoopers en un robot de hardware y software completamente abiertos, reemplazando el controlador propietario Qmind Plus por una BBC Micro:bit.

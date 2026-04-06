@@ -1,3 +1,5 @@
+🌐 [English](CONTRIBUTING.en.md)
+
 # Guía de contribución
 
 Las contribuciones al proyecto GURO son bienvenidas, independientemente de tu perfil técnico: docentes, diseñadores, desarrolladores y cualquier persona interesada puede participar.

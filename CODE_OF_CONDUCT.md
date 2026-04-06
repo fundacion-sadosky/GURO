@@ -1,3 +1,5 @@
+🌐 [English](CODE_OF_CONDUCT.en.md)
+
 # Código de Conducta
 
 ## Propósito y valores

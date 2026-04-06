@@ -74,7 +74,5 @@ El proyecto se distribuye bajo licencia dual: **GPLv3** para código y diseños 
 ---
 
 <p align="center">
-  <a href="https://www.fundacionsadosky.org.ar">Fundación Sadosky</a> &nbsp;·&nbsp;
-  <a href="https://program.ar">Iniciativa program.ar</a> &nbsp;·&nbsp;
-  <a href="https://www.microbit.org">micro:bit</a>
+  <a href="https://www.fundacionsadosky.org.ar">Fundación Sadosky</a>
 </p>

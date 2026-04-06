@@ -1,6 +1,6 @@
 properdocs
 properdocs[i18n]
-mkdocs-material
+mkdocs-material[i18n]
 mkdocstrings[python]
 mkdocs-gen-files
 mkdocs-literate-nav
